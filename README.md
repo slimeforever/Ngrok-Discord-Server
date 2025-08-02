@@ -37,4 +37,4 @@ NGROK_AUTH_TOKEN= Token de tu cuenta de ngrok
 NGROK_PORT= aca solo pongan 8080
 
 ```
-Creado por Slime Izanami & Gemini IA
+**__Creado por Slime Izanami & Gemini IA__**
