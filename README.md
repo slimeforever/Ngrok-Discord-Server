@@ -35,3 +35,6 @@ El archivo `.env` debe tener el siguiente formato, sin comentarios ni texto adic
 DISCORD_TOKEN= token de tu bot
 NGROK_AUTH_TOKEN= Token de tu cuenta de ngrok
 NGROK_PORT= aca solo pongan 8080
+
+```
+Creado por Slime Izanami & Gemini IA
