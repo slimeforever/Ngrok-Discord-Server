@@ -6,7 +6,7 @@ Este es un bot de Discord diseñado para facilitar la gestión de túneles de Ng
 
 * **Comandos de Ngrok:** Inicia (`!ngrok_start`), detén (`!ngrok_stop`) y verifica el estado (`!ngrok_status`) de un túnel.
 * **Gestión de Roles:** Un administrador puede configurar un rol específico (`!set_ngrok_role`[`Aunque esto es temporal`]) para controlar quién puede usar los comandos de Ngrok, garantizando seguridad y control.
-* **Creación de Canales de Voz[Proximamente]:** Al iniciar un túnel, el bot crea automáticamente un canal de voz con la dirección de conexión para que los usuarios puedan unirse fácilmente.
+* **Creación de Canales de Voz [Proximamente]:** Al iniciar un túnel, el bot crea automáticamente un canal de voz con la dirección de conexión para que los usuarios puedan unirse fácilmente.
 * **Las URL son puertos tipo `TPC` solamente y se hostea estas cosas en `LOCALHOST` pero la region es `USA`
 
 ---
