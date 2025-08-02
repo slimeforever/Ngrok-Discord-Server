@@ -38,3 +38,5 @@ NGROK_PORT= aca solo pongan 8080
 
 ```
 **__Creado por Slime Izanami & Gemini IA__**
+
+* **OPENSOURCE**
